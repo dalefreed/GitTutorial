@@ -5,6 +5,6 @@ Git Tutorial from SIGCSE 2015
 __Double asterisk or underscore gives Bold__
 
 ##Contributors
-* Dale Reed
+* @Dale Reed
 * Sam Spade
 
